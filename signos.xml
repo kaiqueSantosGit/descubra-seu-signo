@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo de fogo, símbolo da energia e da coragem.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra, símbolo de estabilidade e perseverança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Comunicativo e adaptável, Gêmeos tem uma mente curiosa e é conhecido por sua versatilidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Emotivo e protetor, Câncer é muito ligado à família e às suas raízes, além de ser sensível às necessidades dos outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Com um espírito confiante e generoso, Leão adora brilhar e é conhecido por seu entusiasmo e liderança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Detalhista e prático, Virgem é analítico e voltado para a organização e a perfeição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Sociável e diplomático, Libra é atraído pela harmonia e pela busca do equilíbrio nas relações.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Intenso e misterioso, Escorpião é conhecido por sua profundidade emocional e determinação.
+</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sargitario</signoNome>
+        <descricao>Aventureiro e otimista, Sagitário adora explorar novos horizontes e busca constantemente conhecimento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Ambicioso e disciplinado, Capricórnio valoriza o trabalho duro e é altamente determinado a atingir seus objetivos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Original e independente, Aquário é conhecido por sua visão humanitária e sua natureza inovadora.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Sensível e empático, Peixes tem uma profunda conexão com as emoções e com o mundo espiritual.</descricao>
+    </signo>  
+</signos>
